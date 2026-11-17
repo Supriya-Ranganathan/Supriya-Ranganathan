@@ -1,7 +1,7 @@
 <!-- Supriya Ranganathan | GitHub Profile -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Supriya-Ranganathan/Supriya-Ranganathan/main/assets/supriya-pixel-banner.gif" width="100%" alt="Custom lavender pixel-art coding workspace"/>
+  <img src="https://raw.githubusercontent.com/Supriya-Ranganathan/Supriya-Ranganathan/main/assets/supriya-pixel-banner-wide.gif" width="100%" alt="Animated full-width lavender pixel-art coding room"/>
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=D9A7C7&center=true&vCenter=true&width=780&lines=Hey%2C+I'm+Supriya+%F0%9F%8C%B7;M.Sc.+AI+%26+ML+Student+at+CIT;Software+Developer+%7C+AI%2FML+Enthusiast;Learning%2C+experimenting+%26+building" alt="Animated introduction"/>
   <br/><br/>
