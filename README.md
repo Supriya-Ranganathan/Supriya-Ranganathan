@@ -1,120 +1,132 @@
-<!-- 🌷 SUPRIYA'S GITHUB PROFILE README -->
+<!-- Supriya Ranganathan | GitHub Profile -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:eadcf8,50:f4dff0,100:dce8ff&height=220&section=header&text=Supriya%20Ranganathan&fontSize=42&fontColor=5e4774&animation=fadeIn&fontAlignY=42&desc=Curious%20Mind%20%7C%20Creative%20Coder%20%7C%20Future%20Engineer&descSize=15&descAlignY=62" width="100%" alt="Supriya Ranganathan banner"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=22&pause=1000&color=9876B5&center=true&vCenter=true&width=750&lines=Hello%2C+I%27m+Supriya%21+%F0%9F%8C%B7;AI+%26+ML+Student+%7C+Software+Developer;Turning+ideas+into+intelligent+solutions;Learning.+Building.+Growing.+%E2%9C%A8" alt="Animated introduction"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e9d8f5,50:f3dce9,100:dce7fa&height=190&section=header&text=Supriya%20Ranganathan&fontSize=40&fontColor=624b78&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=16&descAlignY=60" width="100%" alt="Lavender profile banner"/>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=Supriya-Ranganathan&style=flat-square&color=d8b4e2&label=PROFILE+VISITORS" alt="Profile visitors"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=9876B5&center=true&vCenter=true&width=780&lines=Hey%2C+I'm+Supriya+%F0%9F%8C%B7;M.Sc.+AI+%26+ML+Student+at+CIT;Building+software+with+purpose;Learning%2C+experimenting+%26+growing" alt="Animated introduction"/>
+  <br/><br/>
+  <a href="https://github.com/Supriya-Ranganathan"><img src="https://komarev.com/ghpvc/?username=Supriya-Ranganathan&style=for-the-badge&color=b48eca&label=PROFILE+VIEWS" alt="Profile views"/></a>
+  <a href="https://github.com/Supriya-Ranganathan?tab=followers"><img src="https://img.shields.io/github/followers/Supriya-Ranganathan?style=for-the-badge&color=d9a7c7&label=FOLLOWERS" alt="GitHub followers"/></a>
 </div>
 
 ---
 
-## 🌸 About Me
+## 🌷 About Me
 
-Hey there! I'm **Supriya** 👋
+<table>
+  <tr>
+    <td width="65%" valign="middle">
+      <h3>Hi, I'm Supriya! 👋</h3>
+      <p>🎓 Pursuing an <b>M.Sc. in Artificial Intelligence &amp; Machine Learning</b> at <b>Coimbatore Institute of Technology (CIT)</b>.</p>
+      <p>💻 Interested in <b>software development, full-stack engineering and intelligent applications</b>.</p>
+      <p>🧠 I enjoy turning ideas into practical projects and exploring how AI can solve real-world problems.</p>
+      <p>🚀 My approach: <b>Learn → Experiment → Build → Improve.</b></p>
+      <p>🌱 Always learning, building and becoming a better engineer.</p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="230" alt="Developer coding animation"/>
+      <br/>
+      <sub><b>Currently in my build-and-learn era ✨</b></sub>
+    </td>
+  </tr>
+</table>
 
-- 🎓 M.Sc. Artificial Intelligence & Machine Learning student at **Coimbatore Institute of Technology**.
-- 💻 Interested in software development, intelligent applications and full-stack engineering.
-- 🤖 I enjoy exploring AI, building practical projects and experimenting with new technologies.
-- 🌱 Currently strengthening my software engineering skills and exploring real-world applications of AI.
-- ✨ I believe in curiosity, consistency and progress over perfection.
+<div align="center">
+  <img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-b48eca?style=for-the-badge" alt="Always learning"/>
+  <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20%26%20AI-d9a7c7?style=for-the-badge" alt="Software and AI focus"/>
+</div>
 
-## 💜 Developer Snapshot
+## 🧑‍💻 Developer Snapshot
 
 ```python
-class Supriya:
-    name = "Supriya Ranganathan"
-    education = "M.Sc. Artificial Intelligence & Machine Learning"
-    college = "Coimbatore Institute of Technology"
+class SupriyaRanganathan:
+    education = "M.Sc. Artificial Intelligence & ML — CIT"
+    roles = ["Software Developer", "AI/ML Enthusiast"]
+
+    languages = [
+        "Python", "Java", "C", "JavaScript", "R", "SQL"
+    ]
 
     interests = [
-        "Software Development",
-        "Artificial Intelligence",
-        "Machine Learning",
         "Full-Stack Development",
+        "Machine Learning & Deep Learning",
+        "Cybersecurity Applications",
+        "Graph-Based Machine Learning",
         "Problem Solving"
     ]
 
-    motto = "Dream it. Build it. Improve it."
+    motto = "Stay curious. Build thoughtfully. Keep improving."
 ```
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,r" alt="Programming languages"/>
+  <br/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 
-**Languages**
+  <h3>Frontend & Backend</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,flask,fastapi" alt="Frontend and backend technologies"/>
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js,r,mysql" alt="Programming languages"/>
+  <h3>AI, ML & Data</h3>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI and ML tools"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="Frontend technologies"/>
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi" alt="Backend technologies"/>
-
-**AI & Machine Learning**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI and ML tools"/>
-<br/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-
-**Databases & Tools**
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,git,github,vscode,docker,aws" alt="Databases and tools"/>
-
+  <h3>Databases, DevOps & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,docker,aws,git,github,vscode" alt="Databases and developer tools"/>
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🛡️ **SentinelX** | AI-powered cybersecurity system for threat detection, investigation and risk assessment |
-| 🧠 **SkillGraph-X** | Graph-based machine learning for dynamic workforce skill gap prediction |
-| 🔧 **RepairMind** | Full-stack application for repair management |
-| 🎧 **MachineGuard** | Acoustic anomaly detection using machine learning |
-| ⚡ **EV Charging Demand Prediction** | Neural network-based EV charging demand prediction |
+| Project | What it does | Tech / Focus |
+|---|---|---|
+| **🛡️ SentinelX** | Multi-agent AI cybersecurity system for threat detection, triage, investigation and risk assessment | Python, AI agents, RAG |
+| **🧠 SkillGraph-X** | Graph-based ML system for dynamic workforce skill-gap prediction | Python, ML, graph analysis |
+| **🔧 RepairMind** | Full-stack repair management application | JavaScript, Node.js, MongoDB |
+| **🎧 MachineGuard** | Acoustic anomaly detection using machine learning on industrial audio | Python, MFCC, Scikit-learn |
+| **⚡ EV Charging Demand Prediction** | Neural-network model to predict EV charging demand | Python, TensorFlow, Streamlit |
+
+<div align="center">
+  <a href="https://github.com/Supriya-Ranganathan?tab=repositories"><img src="https://img.shields.io/badge/Explore%20All%20Repositories-View%20on%20GitHub-b48eca?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
+</div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Supriya-Ranganathan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=B48ECA&icon_color=D9A7C7" alt="GitHub statistics"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supriya-Ranganathan&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=B48ECA" alt="Top languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Supriya-Ranganathan&theme=tokyonight" alt="GitHub profile statistics"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Supriya-Ranganathan&theme=tokyonight" alt="Most used languages"/>
   <br/>
-  <img width="65%" src="https://streak-stats.demolab.com?user=Supriya-Ranganathan&theme=tokyonight&hide_border=true&background=00000000&ring=B48ECA&fire=D9A7C7&currStreakLabel=B48ECA" alt="GitHub streak"/>
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Supriya-Ranganathan&theme=tokyonight" alt="GitHub contribution summary"/>
+  <br/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=Supriya-Ranganathan&theme=tokyonight&hide_border=true&background=00000000&ring=B48ECA&fire=D9A7C7&currStreakLabel=B48ECA" alt="GitHub contribution streak"/>
 </div>
 
-## 🌱 Currently Growing
+## 🎯 Currently Exploring
 
-- 💻 Improving my software development skills.
-- 🤖 Exploring practical AI and ML applications.
-- 🌐 Building full-stack applications.
-- ☁️ Learning cloud technologies and deployment.
-- 🧩 Strengthening problem-solving and coding fundamentals.
+- Building reliable AI-powered applications and multi-agent workflows
+- Full-stack development, API design and database integration
+- Practical machine learning and graph-based approaches
+- Cloud deployment, Docker and software engineering practices
 
 ## 🎀 Beyond the Code
 
-☕ Coffee · 🎧 Music · 📸 Everyday moments · 🍰 Baking · 🌷 Creating
-
-A little creativity, a lot of curiosity, and endless things to explore.
-
-## 💌 Let's Connect
-
-<div align="center">
-  <a href="https://github.com/Supriya-Ranganathan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
+☕ Coffee · 🎧 Music · 🍰 Baking · 📸 Everyday moments · 🌷 Creating
 
 <div align="center">
 
-### ✨ Keep learning. Keep creating. Keep shining. 🌸
+## 🤝 Let's Connect
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4dff0,50:eadcf8,100:dce8ff&height=110&section=footer" width="100%" alt="Lavender footer"/>
+<a href="https://github.com/Supriya-Ranganathan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<br/><br/>
+<b>✨ Stay curious. Create fearlessly. Keep shining. 🌸</b>
+<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e9d8f5,50:f3dce9,100:dce7fa&height=110&section=footer" width="100%" alt="Lavender footer"/>
 
 </div>
